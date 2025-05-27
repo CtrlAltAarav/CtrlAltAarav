@@ -12,6 +12,8 @@ Currently exploring Python and web development.
 ## 🚀 Projects
 - [BMI Calculator](https://github.com/CtrlAltAarav/BMI-Calculator)
 - [Simple Calculator in Python](https://github.com/CtrlAltAarav/Python-Calculator)
+- [To do List maker]
+- 
 (More incoming...)
 
 ## 🎯 Goals
