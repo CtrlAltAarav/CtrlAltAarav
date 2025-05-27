@@ -10,8 +10,8 @@ Currently exploring Python and web development.
 
 
 ## 🚀 Projects
-- [BMI Calculator](https://github.com/CtrlAltAarav/BMI-Calculator)
-- [Simple Calculator in Python](https://github.com/CtrlAltAarav/Python-Calculator)
+- [BMI Calculator](https://github.com/CtrlAltAarav/CodeDump/blob/main/Bmi%20calculator.py)
+- [Simple Calculator in Python](
 - [To do List maker]
 (https://github.com/CtrlAltAarav/CodeDump/blob/main/Todolist.py)
 - [contacts list saver]
